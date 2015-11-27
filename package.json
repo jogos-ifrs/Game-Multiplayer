@@ -1,0 +1,24 @@
+{
+  "name": "Game-Multiplayer",
+  "version": "1.0.0",
+  "description": "phaser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://vandercosta@github.com/jogos-ifrs/Game-Multiplayer"
+  },
+  "author": "ifrs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jogos-ifrs/Game-Multiplayer/issues"
+  },
+  "homepage": "https://github.com/jogos-ifrs/Game-Multiplayer",
+  "dependencies": {
+    "express": "^4.13.3",
+    "nodemon": "^1.8.1",
+    "socket.io": "^1.3.7"
+  }
+}
